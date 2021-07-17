@@ -18,8 +18,8 @@ OUTPUT OF CHALLENGE IN THE GIVEN LOCATION : profile-card-component-main\profile-
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/apple14-hero/profile-card-component
+- Live Site URL: https://apple14-hero.github.io/profile-card-component/
 
 ## My process
 
